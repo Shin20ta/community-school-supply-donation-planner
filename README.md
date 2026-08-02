@@ -185,22 +185,22 @@ This version includes corrected financial logic, input validation, package selec
 
 ### Standard Package
 
-![Standard](Standard Package.jpeg)
+![Standard](Standard-Package.jpeg)
 
 ---
 
 ### Expanded Package
 
-![Expanded](Expanded Package.jpeg)
+![Expanded](Expanded-Package.jpeg)
 
 ---
 
 ### Zero Students
 
-![Zero Students](Zero Students.jpeg)
+![Zero Students](Zero-Students.jpeg)
 
 ---
 
 ### Invalid Package Selection
 
-![Invalid Package](Invalid Package Selection.jpeg)
+![Invalid Package](Invalid-Package-Selection.jpeg)
