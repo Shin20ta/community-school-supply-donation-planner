@@ -174,3 +174,33 @@ This version includes corrected financial logic, input validation, package selec
 ## Programming Language
 
 **Python 3**
+
+## Program Demonstration
+
+### Basic Package
+
+![Basic](Basic-Package.jpeg)
+
+---
+
+### Standard Package
+
+![Standard](Standard Package.jpeg)
+
+---
+
+### Expanded Package
+
+![Expanded](Expanded Package.jpeg)
+
+---
+
+### Zero Students
+
+![Zero Students](Zero Students.jpeg)
+
+---
+
+### Invalid Package Selection
+
+![Invalid Package](Invalid Package Selection.jpeg)
